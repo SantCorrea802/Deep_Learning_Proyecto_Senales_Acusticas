@@ -1,0 +1,10 @@
+# Entorno y credenciales
+.env
+.env.*
+
+# Archivos sensibles
+*.json
+
+# Temporales
+.ipynb_checkpoints/
+__pycache__/
